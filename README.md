@@ -35,8 +35,8 @@ Las vidas son corazones y al perder una el corazón desaparece haciendo una pequ
 <a href="https://imgur.com/Ll94PTZ"><img src="https://i.imgur.com/Ll94PTZ.jpg" title="Dificultad" /></a>
 
 <a href="https://imgur.com/0FPUwOJ"><img src="https://i.imgur.com/0FPUwOJ.jpg" title="Juego Operación" /></a>
-<a href="https://imgur.com/ModGzOB"><img src="https://i.imgur.com/ModGzOB.jpg" title="Juego Respuesta Correcta" /></a>
-<a href="https://imgur.com/WGYsil9"><img src="https://i.imgur.com/WGYsil9.jpg" title="Juego Respuesta Incorrecta" /></a>
+<a href="https://imgur.com/h4oJm8s"><img src="https://i.imgur.com/h4oJm8s.jpg" title="Juego Respuesta Correcta" /></a>
+<a href="https://imgur.com/fdsfSHh"><img src="https://i.imgur.com/fdsfSHh.jpg" title="Juego Respuesta Incorrecta" /></a>
 <a href="https://imgur.com/eLtSnyH"><img src="https://i.imgur.com/eLtSnyH.jpg" title="Juego Dialogo Subir de Nivel" /></a>
 
 <a href="https://imgur.com/rtdSn4k"><img src="https://i.imgur.com/rtdSn4k.jpg" title="Pantalla Derrota" /></a>
