@@ -9,7 +9,9 @@ El objetivo es conseguir el mayor número de puntos posibles antes de quedarse s
 
 En la pantalla de juego se indica el nombre, la puntuación y las vidas además de un campo para introducir la respuesta y un botón para comprobarla. En el centro aparecen imágenes de animales y el signo de operación, y si se pulsa encima sale un Toast indicando la operación con números, de esta manera los niños pueden aprender a asociar la cantidad de animales con un número. Al comprobar la operación saldrá una pequeña animación indicando si se acertó o falló y el resultado de la operación correcto.
 
-Las vidas son corazones y al perder una el corazón desaparece haciendo una pequeña animación. Al perder hay una pantalla de derrota que indica el nombre y los puntos obtenidos y hay tres botones con diferentes opciones.
+Las vidas son corazones y al perder una el corazón desaparece haciendo una pequeña animación. 
+Al perder hay una pantalla de derrota que indica el nombre y los puntos obtenidos y hay tres botones con diferentes opciones.
+Al inicio hay un botón de historial el cual muestra una pantalla con un ranking con las puntuaciones registradas en cada modo y salen ordenadas de mayor a menor.
 
 
 # ¿Que contiene?
