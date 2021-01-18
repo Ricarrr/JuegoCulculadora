@@ -1,6 +1,6 @@
 # JuegoCulculadora
-**_Se trata de un pequeño juego destinado a niños para que aprendan las operaciones básicas.
-**_Es sencillo pero a mi parecer bastante completo y me ha servido para aprender muchas cosas.
+**_Se trata de un pequeño juego destinado a niños para que aprendan las operaciones básicas._**
+**_Es sencillo pero a mi parecer bastante completo y me ha servido para aprender muchas cosas._**
 
 # ¿En que consiste?
 
@@ -32,3 +32,13 @@ Las vidas son corazones y al perder una el corazón desaparece haciendo una pequ
 <a href="https://imgur.com/Jd09pIZ"><img src="https://i.imgur.com/Jd09pIZ.jpg" title="Pantalla Principal Vertical" /></a>
 <a href="https://imgur.com/yDav5VP"><img src="https://i.imgur.com/yDav5VP.jpg" title="Pantalla Principal Horizontal" /></a>
 
+<a href="https://imgur.com/Ll94PTZ"><img src="https://i.imgur.com/Ll94PTZ.jpg" title="Dificultad" /></a>
+
+<a href="https://imgur.com/0FPUwOJ"><img src="https://i.imgur.com/0FPUwOJ.jpg" title="Juego Operación" /></a>
+<a href="https://imgur.com/ModGzOB"><img src="https://i.imgur.com/ModGzOB.jpg" title="Juego Respuesta Correcta" /></a>
+<a href="https://imgur.com/WGYsil9"><img src="https://i.imgur.com/WGYsil9.jpg" title="Juego Respuesta Incorrecta" /></a>
+<a href="https://imgur.com/eLtSnyH"><img src="https://i.imgur.com/eLtSnyH.jpg" title="Juego Dialogo Subir de Nivel" /></a>
+
+<a href="https://imgur.com/rtdSn4k"><img src="https://i.imgur.com/rtdSn4k.jpg" title="Pantalla Derrota" /></a>
+
+<a href="https://imgur.com/lKU9C6w"><img src="https://i.imgur.com/lKU9C6w.jpg" title="Pantalla Historial" /></a>
