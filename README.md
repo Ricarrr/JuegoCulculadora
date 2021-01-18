@@ -1,6 +1,6 @@
 # JuegoCulculadora
-__ Se trata de un pequeño juego destinado a niños para que aprendan las operaciones básicas.
-__ Es sencillo pero a mi parecer bastante completo y me ha servido para aprender muchas cosas.
+**_Se trata de un pequeño juego destinado a niños para que aprendan las operaciones básicas.
+**_Es sencillo pero a mi parecer bastante completo y me ha servido para aprender muchas cosas.
 
 # ¿En que consiste?
 
@@ -29,5 +29,6 @@ Las vidas son corazones y al perder una el corazón desaparece haciendo una pequ
 
 # Capturas de pantlla
 
-<a href="https://imgur.com/yDav5VP"><img src="https://i.imgur.com/yDav5VP.jpg" title="Pantalla Principal Horizontal" /></a>
 <a href="https://imgur.com/Jd09pIZ"><img src="https://i.imgur.com/Jd09pIZ.jpg" title="Pantalla Principal Vertical" /></a>
+<a href="https://imgur.com/yDav5VP"><img src="https://i.imgur.com/yDav5VP.jpg" title="Pantalla Principal Horizontal" /></a>
+
