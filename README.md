@@ -1,5 +1,6 @@
 # JuegoCulculadora
 **_Se trata de un pequeño juego destinado a niños para que aprendan las operaciones básicas._**
+
 **_Es sencillo pero a mi parecer bastante completo y me ha servido para aprender muchas cosas._**
 
 # ¿En que consiste?
