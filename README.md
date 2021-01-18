@@ -32,6 +32,8 @@ Al inicio hay un botón de historial el cual muestra una pantalla con un ranking
 
 # Capturas de pantlla
 
+Las imágenes las he descargado de Freepink y las he editado yo para adaptarlas a mi aplicación, los creadores son /Katemangostar y /catalyststuff
+
 <a href="https://imgur.com/Jd09pIZ"><img src="https://i.imgur.com/Jd09pIZ.jpg" title="Pantalla Principal Vertical" /></a>
 <a href="https://imgur.com/yDav5VP"><img src="https://i.imgur.com/yDav5VP.jpg" title="Pantalla Principal Horizontal" /></a>
 
