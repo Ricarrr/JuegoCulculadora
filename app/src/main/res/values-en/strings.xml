@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animal Count</string>
+    <string name="txtWhatsyourName">¿What is your name?</string>
+    <string name="historialCAPS">GAME HISTORY</string>
+    <string name="playCAPS">PLAY</string>
+    <string name="modeElection">" What game mode do you choose?"</string>
+    <string name="txtResponse">Awnser</string>
+    <string name="comprobarCAPS">CHECK</string>
+    <string name="easyMode">Easy</string>
+    <string name="normalMode">Normal</string>
+    <string name="extremeMode">Extreme</string>
+    <string name="easyModeCAPS">EASY</string>
+    <string name="normalModeCAPS">NORMAL</string>
+    <string name="extremeModeCAPS">EXTREME</string>
+    <string name="txtName">Name</string>
+    <string name="txtPlayerDP">Player:</string>
+    <string name="txtPoints">Points</string>
+    <string name="txtPointsDP">Points:</string>
+    <string name="txtVidas">Lives</string>
+    <string name="txtVidasDP">Lives:</string>
+    <string name="txtNameCAPS">NAME</string>
+    <string name="txtPointsCAPS">POINTS</string>
+    <string name="errorCAPS">ERROR</string>
+    <string name="correctCAPS">CORRECT</string>
+    <string name="loseText">Oh no, you loose all your lives!</string>
+    <string name="replay">PLAY AGAIN</string>
+    <string name="changeMode">CHANGE GAMEMODE</string>
+    <string name="mainMenu">MAIN MENU</string>
+    <string name="levelUp">LEVEL UP</string>
+    <string name="level1Easy">Now with addition and subtraction!</string>
+    <string name="level1Normal">Now with addition, subtraction and multiplication!</string>
+    <string name="level2Normal">Now with addition, subtraction, multiplication and divisions!</string>
+    <string name="txtInfoEasy1">- Operations with one digit</string>
+    <string name="txtInfoEasy2">- Subtractions are never negative</string>
+    <string name="txtInfoEasy3">- First level (up to 10 points) there are only sums</string>
+    <string name="txtInfoEasy4">- Second level (more than 10 points) subtractions  added</string>
+    <string name="txtInfoNormal3">- Divisions are exact</string>
+    <string name="txtInfoNormal4">- First level (up to 10 points) addition and subtraction</string>
+    <string name="txtInfoNormal5">- Second level (from 10 to 30 points) multiplications added</string>
+    <string name="txtInfoNormal6">- Third level (more than 30 points) divisions added</string>
+    <string name="txtInfoExtreme1">- Addition and subtraction with 2 digits</string>
+    <string name="txtInfoExtreme2">- Subtractions can be negative</string>
+    <string name="txtInfoExtreme4">- You\'ve only got one life!</string>
+</resources>
